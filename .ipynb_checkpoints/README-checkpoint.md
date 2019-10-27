@@ -9,3 +9,6 @@ ATOM kese default browser h
 
 
 changes from Jupyterlab notebook
+
+final change based on the medium article I saw...kya super bandi h yeh
+https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b
